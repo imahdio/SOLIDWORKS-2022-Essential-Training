@@ -1,5 +1,7 @@
 # Introduction
 ## Learn 3D CAD modeling using SOLIDWORKS 2022
+>-two dimensional sketches will become the foundation for 3D objects
+
 up to speed-If you are up to speed with a subject or activity, you have all the latest information about it and are able to do it well.
 
 SOLIDWORKS sketch-It is the basis for a 3D model
