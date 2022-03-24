@@ -37,10 +37,11 @@ associative-of or involving the association of things
 >2- start a new sketch|-
 >3- Draw geometry|-
 >4- Tie geometry to the origin|to know where it is in space
->5- Add relations and dimensions|-
+>5- Add relations and dimensions|everything is fully defined and black
 >6- create the feature|whatever it's going to be like extrude, cut or revolve
 >
->Notice: there's some more advanced features that might not use these exactly, but, in general, we're going to go ahead and follow these six steps for most of our modeling.
+>Notice: there's some more advanced features that might not use these exactly, but, in general, we're going to go ahead and follow these six steps for most of our modeling.  
+>-View cube= press spacebar
 
 tie something to something-to show how one thing is connected to another
 
@@ -48,3 +49,8 @@ entity-a thing with distinct and independent existence
 
 coincident-happening at the same time
 
+underdefined-Inadequately defined
+
+What's going on here-What has happened or is currently happening
+
+snap-to move into a position quickly
