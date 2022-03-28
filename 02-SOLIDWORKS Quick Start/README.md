@@ -42,6 +42,10 @@ associative-of or involving the association of things
 >
 >Notice: there's some more advanced features that might not use these exactly, but, in general, we're going to go ahead and follow these six steps for most of our modeling.  
 >-View cube= press spacebar
+>-*based on study friend opinion*, here is the diffrences of centerline with regular line
+>* Regular line draw any shape like rectangle
+>* Centrline is not draw any shape
+>* Centerline is not effect on the drawing
 
 tie something to something-to show how one thing is connected to another
 
