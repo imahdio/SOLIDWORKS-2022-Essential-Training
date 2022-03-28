@@ -58,3 +58,7 @@ cone-a shape with a flat, round or oval base and a top that becomes narrower unt
 
 nested-placed one inside the other
 ## Making revolved cuts
+fire sth up-to start a machine, piece of equipment, computer program, etc.
+
+cut away-To cut two things apart
+
