@@ -1,0 +1,60 @@
+# Basic Part Modeling
+## Creating sketches
+>-if you have a enclosed boundary inside of another enclosed boundary it creates what's called an Island. And it just creates the material between the two enclosed boundaries.
+
+idiosyncrasy-a mode of behaviour or way of thought peculiar to an individual, a strange or unusual habit, way of behaving, or feature that someone or something has
+
+vertex-the highest point
+
+isometric projection-It is a method for visually representing three-dimensional objects in two dimensions in technical and engineering drawings
+
+union-the act or the state of being joined together
+## Understanding relationships
+perpendicular-at an angle of 90° to a given line, plane, or surface or to the ground
+
+collinear-lying in the same straight line
+
+coincident-happening at the same time
+## Using the Extrude feature
+>-Blind extrude: Defines the distance or length extrusion with a numerical value  
+-Solidworks draft is features tool which used to create tapered faces on specified angle, using a netural plane or parting line.
+
+workhorse-a horse used for work on a farm, a machine, piece of equipment, or vehicle that you can trust to work well and that you can use to do a lot of work
+
+arsenal-a collection of weapons
+
+isometric-isometric drawing uses a method of drawing a shape with three dimensions using two dimensions
+
+in context-Considered together with the surrounding words or circumstances
+
+vertex-The highest point of something
+
+plane-a flat or level surface
+
+offset-the amount or distance by which something is out of line
+
+tie something to something-to show how one thing is connected to another
+
+fancy-decorative or complicated
+
+majority-more than half of a total number or amount; the larger part of something
+## Using the Extruded Cut feature
+>-cut thgrough up to the next, means cut through everything I see, up to the next face I see  
+-cut up to a vertex, means cut up to that clicked point
+
+how far-to what distance, extent, or degree
+## Creating revolved features
+>-if you don't want something to actually be used in the feature, you can change it from a regular geometry to construction geometry.
+
+symmetrical-made up of exactly similar parts facing each other or around an axis
+
+revolve-to move or cause something to move around a central point or line
+
+hollow-having a hole or empty space inside
+
+conic-having the shape of a cone
+
+cone-a shape with a flat, round or oval base and a top that becomes narrower until it forms a point
+
+nested-placed one inside the other
+## Making revolved cuts
