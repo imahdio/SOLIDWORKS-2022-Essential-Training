@@ -61,4 +61,52 @@ nested-placed one inside the other
 fire sth up-to start a machine, piece of equipment, computer program, etc.
 
 cut away-To cut two things apart
+## Applying materials, colors, and finishes
+>-appearances not going to change the physical properties of the parts themselves. They're just going to change the way they look
+
+rubber-a sticky, elastic solid which is produced from a milky liquid known as latex obtained from various types of rubber trees
+
+decal-a picture or design on special paper, which can be put onto another surface, such as metal or glass
+
+purly-in a pure manner; without admixture; merely; only; solely
+
+beach ball-a large inflatable ball used for playing games on the beach
+## Finding mass properties
+mass density-mass per unit volume
+
+kettlebell-a heavy rounded object with a handle, used for exercise
+
+arbitrary-based on random choice or personal whim, rather than any reason or system
+
+Back out of something-withdraw from
+
+Finite element analysis (FEA)-It's a computerized method for predicting how a product reacts to real-world forces, vibration, heat, fluid flow, and other physical effects
+## System options, units, and templates
+pertain to sth-to be connected with a particular subject, event, or situation
+
+to prompt someone to do something-to make them decide to do it
+
+pull up something-to get information, esp. on a computer screen
+
+the nitty gritty-the basic facts of a situation
+
+annotation-the act of adding short explanations or notes
+
+swap-to give something and be given something else instead
+
+back and forth-moving first in one direction and then in the opposite one
+## Working with dimensions
+fillet-trims away the corner at the intersection of two sketch entities to create a tangent arc [(more info about fillets & rounds)](https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2019/ENU/AutoCAD-Core/files/GUID-357499AE-7EF5-4228-8DE9-7FA6A8F11C27-htm.html)
+## Selecting colors
+illumination-light
+
+luminosity-the state of producing or reflecting bright light
+
+follow-to move behind someone or something and go where he, she, or it goes
+## Creating reference coordinate systems
+triad-three related things that form a group
+
+robust-
+
+definitive-certain and unlikely to change
 
