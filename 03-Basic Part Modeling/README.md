@@ -106,7 +106,7 @@ follow-to move behind someone or something and go where he, she, or it goes
 ## Creating reference coordinate systems
 triad-three related things that form a group
 
-robust-
+robust
 
 definitive-certain and unlikely to change
 
