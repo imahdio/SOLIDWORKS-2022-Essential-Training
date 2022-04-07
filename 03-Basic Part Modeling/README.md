@@ -104,9 +104,8 @@ luminosity-the state of producing or reflecting bright light
 
 follow-to move behind someone or something and go where he, she, or it goes
 ## Creating reference coordinate systems
+coordinate system-it's a system that uses one or more numbers, or coordinates, to uniquely determine the position of the points
+
 triad-three related things that form a group
 
-robust
-
 definitive-certain and unlikely to change
-
