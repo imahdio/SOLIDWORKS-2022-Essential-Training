@@ -73,3 +73,4 @@ protractor-a device used for measuring and drawing angles. It is usually in the 
 
 be overlaid with sth-Something that is overlaid with something has a particular quality added to it that influences its character
 ## Copying and patterning sketch text
+neat-good, tidy, with everything in its place
