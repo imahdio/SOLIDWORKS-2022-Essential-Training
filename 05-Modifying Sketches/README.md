@@ -26,4 +26,9 @@ redundant-not or no longer needed or useful; superfluous
 leverage-to use something that you already have in order to achieve something new or better
 
 associative-based on or relating to the relationship between different things
+## Adding fillets and chamfers to sketches
+fillet-It describe rounded corners of a design (or part) that help to reduce stresses and prevent rapid deformation at the corners of the part
 
+chamfer-It's sloped or angled edges (usually at 45° or 60° ) of a design or part.
+
+if at all possible-If it can possibly happen or be done, if it's possible, if you can
