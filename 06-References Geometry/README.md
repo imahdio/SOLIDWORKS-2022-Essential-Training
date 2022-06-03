@@ -12,7 +12,7 @@ sneaky-secretive or dishonest
 
 cylindrical-having the shape of a cylinder (= hollow tube)
 ## Creating a coordinate system
- triad-three related things that form a group
+triad-three related things that form a group
 
 moment of inertia-a quantity expressing a body's tendency to resist angular acceleration. It is the sum of the products of the mass of each particle in the body with the square of its distance from the axis of rotation.
 
