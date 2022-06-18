@@ -4,9 +4,17 @@ fire sth up-to start a machine or computer program
 
 splash screen-It's an introduction page that is displayed as a program or computer is loading or booting
 
+pin sth up-to fasten something to a wall using a pin
+
 flyout-A popup menu that branches off some other visual element
 
 fly out-To depart from some place or thing hastily
+
+keep sth out-to not go in a place, or to stop someone or something from going into a place
+
+for instance-for example
+
+bin-a large storage container
 
 screw-a thin, pointed piece of metal with a raised edge twisting round along its length and a flat top with a cut in it, used to join things together, especially pieces of wood
 
@@ -29,7 +37,11 @@ extrude-to force, press, or push out
 pan-to move slowly from one side to another or up and down
 
 start off-make something begin
+
+brass-a bright yellow metal made from copper and zinc
 ## Saving, renaming, and managing files
+close (one) out of (something)-To exclude one from something. A noun or pronoun can be used between "close" and "out."
+
 whim-a sudden desire or idea
 
 lay out something-to arrange in a pattern or design; to plan something by showing how its parts fit together

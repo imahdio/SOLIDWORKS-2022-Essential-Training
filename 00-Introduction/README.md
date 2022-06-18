@@ -25,3 +25,5 @@ robust-strong and unlikely to break or fail
 assembly-the process of putting together the parts of a machine or structure, or the thing produced by this process
 
 itemized-if a bill, bank statement, etc. is itemized the things are listed separately usually including details about each one
+
+transition-to change, or make someone or something change, from one form or situation to another

@@ -1,23 +1,30 @@
 # Basic Part Modeling
 ## Creating sketches
 >-if you have a enclosed boundary inside of another enclosed boundary it creates what's called an Island. And it just creates the material between the two enclosed boundaries.
+![](https://user-images.githubusercontent.com/64577273/174044456-693d48bf-53f0-440b-9060-54c591483d35.png)
 
-idiosyncrasy-a mode of behaviour or way of thought peculiar to an individual, a strange or unusual habit, way of behaving, or feature that someone or something has
+idiosyncrasy-an unusual feature of a person It can also mean an odd habit
+
+hard requirements-absolute criteria , If the design does not meet a hard requirement, the design is completely unacceptable (without a doubt!)
+
+twirl-to rotate rapidly; spin
 
 vertex-the highest point
 
 isometric projection-It is a method for visually representing three-dimensional objects in two dimensions in technical and engineering drawings
 
 union-the act or the state of being joined together
+
+come out-to be in a particular condition when finished
 ## Understanding relationships
 perpendicular-at an angle of 90° to a given line, plane, or surface or to the ground
 
 collinear-lying in the same straight line
 
-coincident-happening at the same time
+coincident-two lines or shapes that lie exactly on top of each other
 ## Using the Extrude feature
 >-Blind extrude: Defines the distance or length extrusion with a numerical value  
--Solidworks draft is features tool which used to create tapered faces on specified angle, using a netural plane or parting line.
+-Solidworks draft is features tool which used to create tapered faces on specified angle, using a neutral plane or parting line.
 
 workhorse-a horse used for work on a farm, a machine, piece of equipment, or vehicle that you can trust to work well and that you can use to do a lot of work
 
@@ -50,6 +57,8 @@ symmetrical-made up of exactly similar parts facing each other or around an axis
 
 revolve-to move or cause something to move around a central point or line
 
+thick-not thin, having a large distance between two sides
+
 hollow-having a hole or empty space inside
 
 conic-having the shape of a cone
@@ -58,9 +67,9 @@ cone-a shape with a flat, round or oval base and a top that becomes narrower unt
 
 nested-placed one inside the other
 ## Making revolved cuts
-fire sth up-to start a machine, piece of equipment, computer program, etc.
+fire sth up-to start a computer program, machine, piece of equipment, etc.
 
-cut away-To cut two things apart
+cut away-To remove the parts of something that you do not want by cutting them
 ## Applying materials, colors, and finishes
 >-appearances not going to change the physical properties of the parts themselves. They're just going to change the way they look
 
