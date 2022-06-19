@@ -80,7 +80,7 @@ decal-a picture or design on special paper, which can be put onto another surfac
 purly-in a pure manner; without admixture; merely; only; solely
 
 beach ball-a large inflatable ball used for playing games on the beach
-## Finding mass properties
+## Finding mass properties 
 mass density-mass per unit volume
 
 kettlebell-a heavy rounded object with a handle, used for exercise
@@ -91,6 +91,8 @@ Back out of something-withdraw from
 
 Finite element analysis (FEA)-It's a computerized method for predicting how a product reacts to real-world forces, vibration, heat, fluid flow, and other physical effects
 ## System options, units, and templates
+more than likely-very probable or likely
+
 pertain to sth-to be connected with a particular subject, event, or situation
 
 to prompt someone to do something-to make them decide to do it
